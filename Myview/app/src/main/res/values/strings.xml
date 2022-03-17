@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Myview</string>
+    <string name="Canon_Eos_1Dx_Mark_III">Canon EOS 1Dx Mark iii</string>
+    <string name="conten_text">Bandar Lampung</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="type">Type</string>
+    <string name="DSLR">DSLR</string>
+    <string name="Profesional">Profesional</string>
+    <string name="Kelas">Kelas</string>
+    <string name="merk">Merk</string>
+    <string name="Canon">Canon</string>
+    <string name="Kondisi">Kondisi</string>
+    <string name="Baru">Baru</string>
+    <string name="beli">Beli</string>
+
+
+</resources>

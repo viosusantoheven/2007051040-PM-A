@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/camera"
+            android:scaleType="fitXY" />
+    </FrameLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Rp. 130.000.000,-"
+        android:layout_marginLeft="@dimen/activty_horizontal_margin"
+        android:layout_marginRight="@dimen/activty_horizontal_margin"
+        android:layout_marginTop="@dimen/activty_vertical_margin"
+        android:layout_marginBottom="8dp"
+        android:textColor="@android:color/black"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="@string/Canon_Eos_1Dx_Mark_III"
+        android:layout_marginLeft="@dimen/activty_horizontal_margin"
+        android:layout_marginRight="@dimen/activty_horizontal_margin"
+        android:layout_marginBottom="@dimen/activty_vertical_margin"
+        android:textColor="@android:color/black"
+        />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:text="@string/conten_text"
+        android:layout_marginLeft="@dimen/activty_horizontal_margin"
+        android:layout_marginRight="@dimen/activty_horizontal_margin"
+        android:layout_marginBottom="@dimen/activty_vertical_margin"
+        android:lineSpacingMultiplier="1"
+        android:textColor="@android:color/black"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/deskripsi"
+        android:textSize="16sp"
+        android:layout_marginLeft="@dimen/activty_horizontal_margin"
+        android:layout_marginRight="@dimen/activty_horizontal_margin"
+        android:layout_marginBottom="8dp"
+        android:textColor="@android:color/black"
+        />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activty_horizontal_margin"
+        android:layout_marginRight="@dimen/activty_horizontal_margin"
+        android:layout_marginBottom="@dimen/activty_vertical_margin"
+        />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginRight="@dimen/activty_vertical_margin"
+            android:text="@string/type"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginRight="@dimen/activty_vertical_margin"
+            android:text="@string/DSLR"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"
+            />
+
+    </TableRow>
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginRight="@dimen/activty_vertical_margin"
+            android:text="@string/Kelas"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginRight="@dimen/activty_vertical_margin"
+            android:text="@string/Profesional"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"
+            />
+
+    </TableRow>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activty_horizontal_margin"
+        android:layout_marginRight="@dimen/activty_horizontal_margin"
+        android:layout_marginBottom="@dimen/activty_vertical_margin"
+        />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginRight="@dimen/activty_vertical_margin"
+            android:text="@string/merk"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginRight="@dimen/activty_vertical_margin"
+            android:text="@string/Canon"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"
+            />
+
+    </TableRow>
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginRight="@dimen/activty_vertical_margin"
+            android:text="@string/Kondisi"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_marginRight="@dimen/activty_vertical_margin"
+            android:text="@string/Baru"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"
+            />
+
+    </TableRow>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/activty_horizontal_margin"
+        android:layout_marginLeft="@dimen/activty_horizontal_margin"
+        android:layout_marginBottom="@dimen/activty_vertical_margin" >
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Toko : Heaven Camera Store "
+            android:textColor="@android:color/black"
+            android:layout_centerVertical="true" >
+
+        </TextView>
+
+
+
+    </RelativeLayout>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/beli"
+        android:layout_marginBottom="@dimen/activty_vertical_margin"
+        />
+</LinearLayout>
+
+
+</ScrollView>
