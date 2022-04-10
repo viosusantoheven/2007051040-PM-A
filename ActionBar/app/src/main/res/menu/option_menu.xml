@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/archive"
+        android:title="@string/archive"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/cf"
+        android:title="@string/close_friend"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/likes"
+        android:title="@string/like"
+        android:icon="@drawable/love3"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/massage"
+        android:title="@string/message"
+        android:icon="@drawable/icon3"
+        app:showAsAction="ifRoom"
+        />
+</menu>
