@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dewilematangdestinasiwisatalampungselatan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DewiLematangDestinasiWisataLampungSelatan">
+        <activity
+            android:name=".Masjid"
+            android:exported="false" />
+        <activity
+            android:name=".Makam"
+            android:exported="false" />
+        <activity
+            android:name=".TebingCepa"
+            android:exported="false" />
+        <activity
+            android:name=".PantaiMariana"
+            android:exported="false" />
+        <activity
+            android:name=".TapakKera"
+            android:exported="false" />
+        <activity
+            android:name=".AlauAlau"
+            android:exported="false" />
+        <activity
+            android:name=".PantaiSebalang"
+            android:exported="false" />
+        <activity
+            android:name=".PulauMengkudu"
+            android:exported="false" />
+        <activity
+            android:name=".AirTerjun"
+            android:exported="false" />
+        <activity
+            android:name=".AirPanas"
+            android:exported="false" />
+        <activity
+            android:name=".GrandElty"
+            android:exported="false" />
+        <activity
+            android:name=".MinangRua"
+            android:exported="false" />
+        <activity
+            android:name=".About"
+            android:exported="false" />
+        <activity
+            android:name=".WisataKuliner"
+            android:exported="false" />
+        <activity
+            android:name=".WisataReligi"
+            android:exported="false" />
+        <activity
+            android:name=".WisataEdukasi"
+            android:exported="false" />
+        <activity
+            android:name=".WisataAlam"
+            android:exported="false" />
+        <activity
+            android:name=".MenuUtama"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

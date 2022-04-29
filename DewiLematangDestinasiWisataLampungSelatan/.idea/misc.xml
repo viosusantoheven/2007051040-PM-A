@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/drawable/minangrua.xml" value="0.135" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_air_panas.xml" value="0.16990291262135923" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_air_terjun.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_alau_alau.xml" value="0.21875" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_grand_elty.xml" value="0.21875" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_makam.xml" value="0.264" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_masjid.xml" value="0.265625" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_menu_utama.xml" value="0.265625" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_minang_rua.xml" value="0.264" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_pantai_mariana.xml" value="0.21875" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_pulau_mengkudu.xml" value="0.21875" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_tapak_kera.xml" value="0.21875" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_tebing_cepa.xml" value="0.21875" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_wisata_alam.xml" value="0.265625" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_wisata_edukasi.xml" value="0.265625" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_wisata_kuliner.xml" value="0.1" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/activity_wisata_religi.xml" value="0.264" />
+        <entry key="..\:/Users/Vio/AndroidStudioProjects/DewiLematangDestinasiWisataLampungSelatan/app/src/main/res/layout/fragment_menu__utama.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationComponent2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ini Home Pragment</string>
+    <string name="next1">"Ke Halaman Berikutnya "</string>
+    <string name="profile">"Ke Profile "</string>
+    <string name="kategori">Ini Adalah Halaman Kategori</string>
+    <string name="kategori1">Ke Kategory</string>
+</resources>
