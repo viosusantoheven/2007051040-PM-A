@@ -56,25 +56,17 @@ public class WisataAlam extends AppCompatActivity {
                     startActivityForResult(myIntent, 0);
                 }
                 if (position ==6) {
-                    Intent myIntent = new Intent(view.getContext(),PantaiMariana.class);
-                    startActivityForResult(myIntent, 0);
-                }
-                if (position ==7) {
                     Intent myIntent = new Intent(view.getContext(),AlauAlau.class);
                     startActivityForResult(myIntent, 0);
                 }
-                if (position ==8) {
+                if (position ==7) {
                     Intent myIntent = new Intent(view.getContext(),TapakKera.class);
                     startActivityForResult(myIntent, 0);
                 }
-                if (position ==9) {
-                    Intent myIntent = new Intent(view.getContext(),TebingCepa.class);
+                if (position ==8) {
+                    Intent myIntent = new Intent(view.getContext(),PantaiMariana.class);
                     startActivityForResult(myIntent, 0);
                 }
-
-
-
-
             }
         });
     }

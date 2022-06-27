@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DewiLematangDestinasiWisataLampungSelatan">
         <activity
+            android:name=".otakotakkalianda1"
+            android:exported="false" />
+        <activity
+            android:name=".kebun_edukasi"
+            android:exported="false" />
+        <activity
+            android:name=".Wisataedukasilampsel"
+            android:exported="false" />
+        <activity
+            android:name=".otakotakkalianda"
+            android:exported="false" />
+        <activity
             android:name=".Masjid"
             android:exported="false" />
         <activity

@@ -31,12 +31,12 @@ public class WisataReligi extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
 
                 if (position == 0) {
-                    Intent myIntent = new Intent(view.getContext(), Masjid.class);
+                    Intent myIntent = new Intent(view.getContext(), Makam.class);
                     startActivityForResult(myIntent, 0);
 
                 }
                 if (position == 1) {
-                    Intent myIntent = new Intent(view.getContext(), Makam.class);
+                    Intent myIntent = new Intent(view.getContext(),Masjid.class);
                     startActivityForResult(myIntent, 0);
                 }
             }

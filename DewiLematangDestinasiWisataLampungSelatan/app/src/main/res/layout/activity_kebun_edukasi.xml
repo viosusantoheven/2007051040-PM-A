@@ -15,7 +15,7 @@
         android:layout_gravity="center"
         android:background="#093B51"
         android:padding="20dp"
-        android:text="Pantai Sebalang "
+        android:text="Kebun Edukasi Kalianda"
         android:textColor="#FFFFFF"
         android:textSize="30dp" />
 
@@ -23,14 +23,14 @@
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="235dp"
-        android:src="@drawable/sebalang"
+        android:src="@drawable/kebun_edukasi"
         />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text=" Lokasi : sebalang, Tarahan, Kec. Katibung, Kabupaten Lampung Selatan, Lampung "
+        android:text=" Jl. Lintas Sumatra No.22, Kedaton, Kec. Kalianda, Kabupaten Lampung Selatan"
         android:textAlignment="center"
         android:textStyle="bold"
         android:background="#fff"
@@ -47,20 +47,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="20dp"
-            android:text="@string/text12"
+            android:text="@string/text13"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textSize="20dp"
             />
 
+
     </ScrollView>
 
     <Button
-        android:id="@+id/btnkunjungi1"
+        android:id="@+id/btnkunjungi2"
         android:backgroundTint="#093B51"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold"
-        android:text="Kunjungi"
+        android:text="Kunjungi "
 
         />
 
